@@ -1,0 +1,22 @@
+{
+  "name": "witherby-woods",
+  "version": "1.0.0",
+  "description": "A direct booking site for the Witherby Woods property.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jrmccann2/witherby-woods.git"
+  },
+  "author": "Josh McCann",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jrmccann2/witherby-woods/issues"
+  },
+  "homepage": "https://github.com/jrmccann2/witherby-woods#readme",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
